@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: geo-coords-converter
+Version: 0.0.post0.dev3+g6d5c0ff.dirty
+Summary: Add a short description here!
+Home-page: https://pyscaffold.org/
+Author: Martin Huenermund
+Author-email: martin.huenermund@gmail.com
+License: mit
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown
+Provides-Extra: testing
